@@ -27,31 +27,33 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 | :---:   | :-: | :-: | :-: | :-: |
 | Hulk | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Thor | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Thor | Jane Doe, John Doe | Leaning Tower Of Pisa | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Stark | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Stark | Jane Doe, John Doe | Charminar | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Marvel | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Marvel | Jane Doe, John Doe | Christ Redeemer | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Rogers | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Rogers | Jane Doe, John Doe | Gateway Of India | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Thanos | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Thanos | Jane Doe, John Doe | Great Wall of China | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Hawkeye | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Hawkeye | Jane Doe, John Doe | India Gate | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Black Panther | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Black Panther | Jane Doe, John Doe | Louvre | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Vision | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Vision | Jane Doe, John Doe | Sphinx | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Scarlet | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Scarlet | Jane Doe, John Doe | Statue Of Liberty | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Fury | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Fury | Jane Doe, John Doe | Aguada Fort | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Bucky | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Bucky | Jane Doe, John Doe | Shaniwarwada | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Strange | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Strange | Jane Doe, John Doe | Raigad | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Strange | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Black Widow | Jane Doe, John Doe | Sinhagad | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Spider | Jane Doe, John Doe | Agra Fort | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
 
 
