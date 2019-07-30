@@ -16,6 +16,10 @@
 ## Angular Assignment
   
 ## React Assignment
+
+## Feedback Form
+
+Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14TWCYvE7HdhqOvxdNHoB62XSNVmtFSv0eGDRBfZB7Zk/viewform) before you leave for the day.
   
 ## Teams & 1:1 schedule
 
@@ -23,14 +27,32 @@
 | :---:   | :-: | :-: | :-: | :-: |
 | Hulk | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Hulk | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Thor | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Hulk | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Stark | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
-| Hulk | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+| Marvel | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Rogers | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Thanos | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Hawkeye | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Black Panther | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Vision | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Scarlet | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Fury | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Bucky | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Strange | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
+|  |  |  | Bruce | 1PM |
+| Strange | Jane Doe, John Doe | Taj Mahal | Jacob | 1PM |
 |  |  |  | Bruce | 1PM |
 
 
-## Feedback Form
 
-Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14TWCYvE7HdhqOvxdNHoB62XSNVmtFSv0eGDRBfZB7Zk/viewform) before you leave for the day.
