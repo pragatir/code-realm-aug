@@ -5,7 +5,7 @@
 | Activity | Description  | Timing  |
 | :---:   | :-: | :-: |
 | Round Janus (Training) | Hands-on training with Globers | 10:15AM - 11:15AM |
-| Talk with Globant Leadership | Interactive session to know more about Globant | 11:15AM |
+| Talk with Globant Leadership | Interactive session to know more about Globant | 11:30AM |
 | Round Apollo & Lunch | Hands-on assignment | 12:00PM - 3:30PM |
 | Tea Break | - | 3:45PM |
 | Round Zeus | Team discussions | 4:00PM - 5PM |
