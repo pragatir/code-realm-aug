@@ -13,21 +13,21 @@
 
 ## Training
 - Angular
-  - Github :
-  - Codesandbox :
+  - Github : WIP
+  - Codesandbox : WIP
 - React
-  - Github :
-  - Codesandbox :
+  - Github : WIP
+  - Codesandbox : WIP
  
 ## Angular Assignment
-- Instructions :
-- Github :
-- Codesandbox :
+- Instructions : WIP
+- Github : WIP
+- Codesandbox : WIP
   
 ## React Assignment
-- Instructions :
-- Github :
-- Codesandbox :
+- Instructions : WIP
+- Github : WIP
+- Codesandbox : WIP
 
 ## Feedback Form
 
