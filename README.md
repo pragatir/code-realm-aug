@@ -43,25 +43,25 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Thor | Jane Doe, John Doe | Leaning Tower Of Pisa | Candidate 0 | 12:30PM |
+| Thor | Mitesh Neema, Anuja Pandit, Kavita Mhaske | Leaning Tower Of Pisa | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Stark | Jane Doe, John Doe | Charminar | Candidate 0 | 12:30PM |
+| Stark | Umakant Patil, DC, Neha Katariya | Charminar | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Marvel | Jane Doe, John Doe | Christ Redeemer | Candidate 0 | 12:30PM |
+| Marvel | Shreyas Upadhye, Pavan Patil, Ruchi Sharma | Christ Redeemer | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Rogers | Jane Doe, John Doe | Gateway Of India | Candidate 0 | 12:30PM |
+| Rogers | Rahul Kajale, Harshdeep B, Priti Nakhare | Gateway Of India | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
