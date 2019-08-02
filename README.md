@@ -29,9 +29,12 @@
 - Github : WIP
 - Codesandbox : WIP
 
-## Solution Link & Feedback Form
+## Solution Link
+- Add the codesandbox solution link in [this](https://docs.google.com/forms/d/1hWCNAKnb4WsZQtGT8kp7ywFX0KW5BaR2KiD-2cLK5Ug) form
 
-Please make sure you fill the [Solution Link & Feedback form](https://docs.google.com/forms/d/14TWCYvE7HdhqOvxdNHoB62XSNVmtFSv0eGDRBfZB7Zk/viewform) before you leave for the day.
+## Feedback Form
+
+Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14TWCYvE7HdhqOvxdNHoB62XSNVmtFSv0eGDRBfZB7Zk/viewform) before you leave for the day.
   
 ## Teams & 1:1 schedule
 
