@@ -19,14 +19,14 @@
   - Codesandbox : https://codesandbox.io/s/inspiring-bird-upxfg
  
 ## Angular Assignment
-- Instructions : WIP
-- Github : WIP
-- Codesandbox : WIP
+- Instructions : Coming soon...
+- Github : Coming soon...
+- Codesandbox : Coming soon...
   
 ## React Assignment
-- Instructions : WIP
-- Github : WIP
-- Codesandbox : WIP
+- Instructions : Coming soon...
+- Github : Coming soon...
+- Codesandbox : Coming soon...
 
 ## Solution Link
 - Add the codesandbox solution link in [this](https://docs.google.com/forms/d/1hWCNAKnb4WsZQtGT8kp7ywFX0KW5BaR2KiD-2cLK5Ug) form
