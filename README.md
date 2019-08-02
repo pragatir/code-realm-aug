@@ -29,9 +29,9 @@
 - Github : WIP
 - Codesandbox : WIP
 
-## Feedback Form
+## Solution Link & Feedback Form
 
-Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14TWCYvE7HdhqOvxdNHoB62XSNVmtFSv0eGDRBfZB7Zk/viewform) before you leave for the day.
+Please make sure you fill the [Solution Link & Feedback form](https://docs.google.com/forms/d/14TWCYvE7HdhqOvxdNHoB62XSNVmtFSv0eGDRBfZB7Zk/viewform) before you leave for the day.
   
 ## Teams & 1:1 schedule
 
