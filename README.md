@@ -37,7 +37,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 
 | Team Name | Globers | Conference rooms | Candidate Names  | 1:1 timings  |
 | :---:   | :-: | :-: | :-: | :-: |
-| Hulk | Jane Doe, John Doe | Taj Mahal | Candidate 0 | 12:30PM |
+| Hulk | Sanil Naik, Sumit Naik, Mayuri Khopade | Taj Mahal | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
