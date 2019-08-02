@@ -67,55 +67,55 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Thanos | Jane Doe, John Doe | Great Wall of China | Candidate 0 | 12:30PM |
+| Thanos | Ashish Ingle, Ajinkya Wankhade, Debasmita Sarkar | Great Wall of China | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Hawkeye | Jane Doe, John Doe | India Gate | Candidate 0 | 12:30PM |
+| Hawkeye | Rohit Kawade, Anuradha Kumari, Ashutosh Hundekar | Big Ben | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Black Panther | Jane Doe, John Doe | Louvre | Candidate 0 | 12:30PM |
+| Black Panther | Saad Ulde, Shantanu Nirale, Amit Negi | Louvre | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Vision | Jane Doe, John Doe | Sphinx | Candidate 0 | 12:30PM |
+| Vision | Ajhar Shaikh, Tushar Narkhede, Gaurav Patil | Sphinx | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Scarlet | Jane Doe, John Doe | Statue Of Liberty | Candidate 0 | 12:30PM |
+| Scarlet | Gyanendra Rana, Kiran Nawale, Akshay Karche | Statue Of Liberty | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Fury | Jane Doe, John Doe | Aguada Fort | Candidate 0 | 12:30PM |
+| Fury | Amey Joshi, Kunal Jain | Aguada Fort | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Bucky | Jane Doe, John Doe | Shaniwarwada | Candidate 0 | 12:30PM |
+| Bucky | Piyush Jha, Akshay Nirhali, Santosh Patel | Shaniwarwada | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Strange | Jane Doe, John Doe | Raigad | Candidate 0 | 12:30PM |
+| Strange | Amit Dubey, Ishwar Patil, Kiran Patil | Raigad | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Black Widow | Jane Doe, John Doe | Sinhagad | Candidate 0 | 12:30PM |
+| Black Widow | Sulekha Dumbre, Jaydeep Sheth, Ashish Verma | Sinhagad | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
