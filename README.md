@@ -13,11 +13,10 @@
 
 ## Training
 - Angular
-  - Github : WIP
-  - Codesandbox : WIP
+  - Stackblitz : https://stackblitz.com/edit/angular-unit-tests-ezaz2t
 - React
-  - Github : WIP
-  - Codesandbox : WIP
+  - Github : https://github.com/anuk79/CodeRealm_Testing
+  - Codesandbox : https://codesandbox.io/s/inspiring-bird-upxfg
  
 ## Angular Assignment
 - Instructions : WIP
