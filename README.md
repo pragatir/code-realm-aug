@@ -96,7 +96,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Ashutosh Bajarang Chorage | 1:30PM |
 |  |  |  | Prasad Patil | 2:00PM |
 |  |  |  | Ganesh Wani | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+|  |  |  | Niranjan Pawar | 3:00PM |
 | Fury | Ajhar Shaikh, Amey Joshi, Kunal Jain | Aguada Fort | Tousif Sayyed  | 12:30PM |
 |  |  |  | NIKILESH AMBADE | 1:00PM |
 |  |  |  | Santwana Rathi | 1:30PM |
@@ -114,7 +114,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Arnav Kasbi  | 1:30PM |
 |  |  |  | Ankit Trivedi | 2:00PM |
 |  |  |  | Dilip Shelake | 2:30PM |
-|  |  |  | Niranjan Pawar | 3:00PM |
+|  |  |  | candidate 5 | 3:00PM |
 | Black Widow | Sulekha Dumbre, Jaydeep Sheth, Ashish Verma | Sinhagad | Chirag Ghai | 12:30PM |
 |  |  |  | Rakhi Pal | 1:00PM |
 |  |  |  | Shekhar Shende | 1:30PM |
