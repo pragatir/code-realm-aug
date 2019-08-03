@@ -61,12 +61,12 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Chetan Suryawanshi | 2:00PM |
 |  |  |  | PRIYANKA HANUMANT ROKADE | 2:30PM |
 |  |  |  | UMESH BOMBE | 3:00PM |
-| Rogers | Rahul Kajale, Harshdeep B, Priti Nakhare | Gateway Of India | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+| Rogers | Rahul Kajale, Harshdeep B, Priti Nakhare | Gateway Of India | Vivek Rajput| 12:30PM |
+|  |  |  | Shashikant Kumar | 1:00PM |
+|  |  |  | Vipul Patel | 1:30PM |
+|  |  |  | Nikita Malpani | 2:00PM |
+|  |  |  | ADITYA ACHYUT PATIL | 2:30PM |
+|  |  |  | Shruti Nandan | 3:00PM |
 | Thanos | Ashish Ingle, Ajinkya Wankhade, Debasmita Sarkar | Great Wall of China | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
