@@ -76,7 +76,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Prateek Mishra | 2:00PM |
 |  |  |  | Bhargavi Bhawalkar| 2:30PM |
 |  |  |  | Mandar Chandrakant Kewate | 3:00PM |
-| Hawkeye | Rohit Kawade, Anuradha Kumari, Ashutosh Hundekar | Big Ben | Prasad Kulkarni | 12:30PM |
+| Hawkeye | Rohit Kawade, Anuradha Kumari, Ashutosh Hundekar | Agra Fort | Prasad Kulkarni | 12:30PM |
 |  |  |  | Jyoti Singh | 1:00PM |
 |  |  |  | Tushar Pol | 1:30PM |
 |  |  |  | Archana Subhash Vyawahare | 2:00PM |
@@ -124,12 +124,6 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | ROHAN AMBHORE  | 2:00PM |
 |  |  |  | Omkar Kothavale | 2:30PM |
 |  |  |  | Sumit Nimbarte| 3:00PM |
-| Spider | Jane Doe, John Doe | Agra Fort | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
 
 
 
