@@ -46,15 +46,15 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 | Thor | Mitesh Neema, Anuja Pandit, Kavita Mhaske | Leaning Tower Of Pisa | SHRIPAD SANJAY BHUVANKAR | 12:30PM |
 |  |  |  | Mrugesh Panchal | 1:00PM |
 |  |  |  | Jaisal Chandraprakash Jaiswal | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+|  |  |  | Ayush Bhadauria | 2:00PM |
+|  |  |  | PRABHANJAN V. PADHYE | 2:30PM |
+|  |  |  | Sachin Ghodake | 3:00PM |
 | Stark | Umakant Patil, DC, Neha Katariya | Charminar | Kiran Dattatray Baste | 12:30PM |
 |  |  |  | Ganesh Arun Markandey | 1:00PM |
 |  |  |  | PANKAJ BADUKALE | 1:30PM |
 |  |  |  | Sarika Jain | 2:00PM |
 |  |  |  | SANA RAFIK TAMBOLI | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+|  |  |  | Vikram Lipane | 3:00PM |
 | Marvel | Shreyas Upadhye, Pavan Patil, Ruchi Sharma | Christ Redeemer | Kiran Bhatte| 12:30PM |
 |  |  |  | Manasi Kundap | 1:00PM |
 |  |  |  | Abhinav Kumar  | 1:30PM |
