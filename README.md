@@ -109,12 +109,12 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Strange | Amit Dubey, Ishwar Patil, Kiran Patil | Raigad | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+| Strange | Amit Dubey, Ishwar Patil, Kiran Patil | Raigad | Sumit Sutar | 12:30PM |
+|  |  |  | VINIT SABOO | 1:00PM |
+|  |  |  | Arnav Kasbi  | 1:30PM |
+|  |  |  | Ankit Trivedi | 2:00PM |
+|  |  |  | Dilip Shelake | 2:30PM |
+|  |  |  | Niranjan Pawar | 3:00PM |
 | Black Widow | Sulekha Dumbre, Jaydeep Sheth, Ashish Verma | Sinhagad | Chirag Ghai | 12:30PM |
 |  |  |  | Rakhi Pal | 1:00PM |
 |  |  |  | Shekhar Shende | 1:30PM |
