@@ -85,7 +85,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Shreyasee Kamble | 2:00PM |
 |  |  |  | Apurva Kumar Srivastav | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Vision | Ajhar Shaikh, Tushar Narkhede, Gaurav Patil | Sphinx | Madhuri Aswale | 12:30PM |
+| Vision | Tushar Narkhede, Gaurav Patil | Sphinx | Madhuri Aswale | 12:30PM |
 |  |  |  | Saurabh Kumar Tank | 1:00PM |
 |  |  |  | Nandini Jain | 1:30PM |
 |  |  |  | Akash Bavale | 2:00PM |
@@ -97,7 +97,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Prasad Patil | 2:00PM |
 |  |  |  | Ganesh Wani | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Fury | Amey Joshi, Kunal Jain | Aguada Fort | Tousif Sayyed  | 12:30PM |
+| Fury | Ajhar Shaikh, Amey Joshi, Kunal Jain | Aguada Fort | Tousif Sayyed  | 12:30PM |
 |  |  |  | NIKILESH AMBADE | 1:00PM |
 |  |  |  | Santwana Rathi | 1:30PM |
 |  |  |  | Vidit Goswami | 2:00PM |
