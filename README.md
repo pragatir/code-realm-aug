@@ -87,7 +87,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Vaibhav Pathare | 1:30PM |
 |  |  |  | Shreyasee Kamble | 2:00PM |
 |  |  |  | Apurva Kumar Srivastav | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+|  |  |  | Susmi Satapathy | 3:00PM |
 | Vision | Tushar Narkhede, Gaurav Patil | Sphinx | Madhuri Aswale | 12:30PM |
 |  |  |  | Saurabh Kumar Tank | 1:00PM |
 |  |  |  | Nandini Jain | 1:30PM |
