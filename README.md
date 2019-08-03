@@ -41,8 +41,8 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Rishikesh V. Sarje | 1:00PM |
 |  |  |  | Deepak Marathe | 1:30PM |
 |  |  |  | Supravat Sahoo | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+|  |  |  | Sourabh Jain | 2:30PM |
+|  |  |  | Prakhar Shrivastava | 3:00PM |
 | Thor | Mitesh Neema, Anuja Pandit, Kavita Mhaske | Leaning Tower Of Pisa | SHRIPAD SANJAY BHUVANKAR | 12:30PM |
 |  |  |  | Mrugesh Panchal | 1:00PM |
 |  |  |  | Jaisal Chandraprakash Jaiswal | 1:30PM |
