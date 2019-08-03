@@ -93,7 +93,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Nandini Jain | 1:30PM |
 |  |  |  | Akash Bavale | 2:00PM |
 |  |  |  | Nandan Bhat | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+|  |  |  | Omkar Darde | 3:00PM |
 | Scarlet | Gyanendra Rana, Kiran Nawale, Akshay Karche | Statue Of Liberty | SHIVALI RAGHAV | 12:30PM |
 |  |  |  | Dheeraj Kalgutkar | 1:00PM |
 |  |  |  | Ashutosh Bajarang Chorage | 1:30PM |
@@ -117,7 +117,7 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Arnav Kasbi  | 1:30PM |
 |  |  |  | Ankit Trivedi | 2:00PM |
 |  |  |  | Dilip Shelake | 2:30PM |
-|  |  |  | candidate 5 | 3:00PM |
+|  |  |  | Mahadev J. Khile | 3:00PM |
 | Black Widow | Sulekha Dumbre, Jaydeep Sheth, Ashish Verma | Sinhagad | Chirag Ghai | 12:30PM |
 |  |  |  | Rakhi Pal | 1:00PM |
 |  |  |  | Shekhar Shende | 1:30PM |
