@@ -55,12 +55,12 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Sarika Jain | 2:00PM |
 |  |  |  | SANA RAFIK TAMBOLI | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Marvel | Shreyas Upadhye, Pavan Patil, Ruchi Sharma | Christ Redeemer | Candidate 0 | 12:30PM |
+| Marvel | Shreyas Upadhye, Pavan Patil, Ruchi Sharma | Christ Redeemer | Kiran Bhatte| 12:30PM |
 |  |  |  | Manasi Kundap | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+|  |  |  | Abhinav Kumar  | 1:30PM |
+|  |  |  | Chetan Suryawanshi | 2:00PM |
+|  |  |  | PRIYANKA HANUMANT ROKADE | 2:30PM |
+|  |  |  | UMESH BOMBE | 3:00PM |
 | Rogers | Rahul Kajale, Harshdeep B, Priti Nakhare | Gateway Of India | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
