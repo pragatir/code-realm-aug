@@ -97,11 +97,11 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Fury | Amey Joshi, Kunal Jain | Aguada Fort | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
+| Fury | Amey Joshi, Kunal Jain | Aguada Fort | Tousif Sayyed  | 12:30PM |
+|  |  |  | NIKILESH AMBADE | 1:00PM |
+|  |  |  | Santwana Rathi | 1:30PM |
+|  |  |  | Vidit Goswami | 2:00PM |
+|  |  |  | SWATI KULKARNI | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
 | Bucky | Piyush Jha, Akshay Nirhali, Santosh Patel | Shaniwarwada | Ashutosh Singh | 12:30PM |
 |  |  |  | Sohan Jadhav | 1:00PM |
