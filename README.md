@@ -115,12 +115,12 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Black Widow | Sulekha Dumbre, Jaydeep Sheth, Ashish Verma | Sinhagad | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
+| Black Widow | Sulekha Dumbre, Jaydeep Sheth, Ashish Verma | Sinhagad | Chirag Ghai | 12:30PM |
+|  |  |  | Rakhi Pal | 1:00PM |
+|  |  |  | Shekhar Shende | 1:30PM |
+|  |  |  | ROHAN AMBHORE  | 2:00PM |
+|  |  |  | Omkar Kothavale | 2:30PM |
+|  |  |  | Sumit Nimbarte| 3:00PM |
 | Spider | Jane Doe, John Doe | Agra Fort | Candidate 0 | 12:30PM |
 |  |  |  | Candidate 1 | 1:00PM |
 |  |  |  | Candidate 2 | 1:30PM |
