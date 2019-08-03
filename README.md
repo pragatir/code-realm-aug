@@ -44,8 +44,8 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
 | Thor | Mitesh Neema, Anuja Pandit, Kavita Mhaske | Leaning Tower Of Pisa | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
+|  |  |  | Mrugesh Panchal | 1:00PM |
+|  |  |  | Jaisal Chandraprakash Jaiswal | 1:30PM |
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
