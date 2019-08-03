@@ -1,5 +1,8 @@
 # Globant - Code Realm - August 2019
 
+## Our meetup link (Help us build a strong community)
+Check it [here](https://www.meetup.com/Globant-UI-Engineering-Events/)
+
 ## Schedule
 
 | Activity | Description  | Timing  |
