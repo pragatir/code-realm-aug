@@ -91,11 +91,11 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Candidate 3 | 2:00PM |
 |  |  |  | Candidate 4 | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Scarlet | Gyanendra Rana, Kiran Nawale, Akshay Karche | Statue Of Liberty | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
+| Scarlet | Gyanendra Rana, Kiran Nawale, Akshay Karche | Statue Of Liberty | SHIVALI RAGHAV | 12:30PM |
+|  |  |  | Dheeraj Kalgutkar | 1:00PM |
+|  |  |  | Ashutosh Bajarang Chorage | 1:30PM |
+|  |  |  | Prasad Patil | 2:00PM |
+|  |  |  | Ganesh Wani | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
 | Fury | Amey Joshi, Kunal Jain | Aguada Fort | Tousif Sayyed  | 12:30PM |
 |  |  |  | NIKILESH AMBADE | 1:00PM |
