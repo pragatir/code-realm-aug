@@ -67,29 +67,29 @@ Please make sure you fill the [Feedback form](https://docs.google.com/forms/d/14
 |  |  |  | Nikita Malpani | 2:00PM |
 |  |  |  | ADITYA ACHYUT PATIL | 2:30PM |
 |  |  |  | Shruti Nandan | 3:00PM |
-| Thanos | Ashish Ingle, Ajinkya Wankhade, Debasmita Sarkar | Great Wall of China | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
+| Thanos | Ashish Ingle, Ajinkya Wankhade, Debasmita Sarkar | Great Wall of China | Baljeet Singh Sahney | 12:30PM |
+|  |  |  | ARFAT AHMAD | 1:00PM |
+|  |  |  | Ankit Joshi | 1:30PM |
+|  |  |  | Prateek Mishra | 2:00PM |
+|  |  |  | Bhargavi Bhawalkar| 2:30PM |
+|  |  |  | Mandar Chandrakant Kewate | 3:00PM |
+| Hawkeye | Rohit Kawade, Anuradha Kumari, Ashutosh Hundekar | Big Ben | Prasad Kulkarni | 12:30PM |
+|  |  |  | Jyoti Singh | 1:00PM |
+|  |  |  | Tushar Pol | 1:30PM |
+|  |  |  | Archana Subhash Vyawahare | 2:00PM |
+|  |  |  | TUKARAM J PATIL | 2:30PM |
+|  |  |  | Pranay Ghiya | 3:00PM |
+| Black Panther | Saad Ulde, Shantanu Nirale, Amit Negi | Louvre | Shubham Kulkarni | 12:30PM |
+|  |  |  | Laxmi Salunkhe | 1:00PM |
+|  |  |  | Vaibhav Pathare | 1:30PM |
+|  |  |  | Shreyasee Kamble | 2:00PM |
+|  |  |  | Apurva Kumar Srivastav | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
-| Hawkeye | Rohit Kawade, Anuradha Kumari, Ashutosh Hundekar | Big Ben | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
-| Black Panther | Saad Ulde, Shantanu Nirale, Amit Negi | Louvre | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
-|  |  |  | Candidate 5 | 3:00PM |
-| Vision | Ajhar Shaikh, Tushar Narkhede, Gaurav Patil | Sphinx | Candidate 0 | 12:30PM |
-|  |  |  | Candidate 1 | 1:00PM |
-|  |  |  | Candidate 2 | 1:30PM |
-|  |  |  | Candidate 3 | 2:00PM |
-|  |  |  | Candidate 4 | 2:30PM |
+| Vision | Ajhar Shaikh, Tushar Narkhede, Gaurav Patil | Sphinx | Madhuri Aswale | 12:30PM |
+|  |  |  | Saurabh Kumar Tank | 1:00PM |
+|  |  |  | Nandini Jain | 1:30PM |
+|  |  |  | Akash Bavale | 2:00PM |
+|  |  |  | Nandan Bhat | 2:30PM |
 |  |  |  | Candidate 5 | 3:00PM |
 | Scarlet | Gyanendra Rana, Kiran Nawale, Akshay Karche | Statue Of Liberty | SHIVALI RAGHAV | 12:30PM |
 |  |  |  | Dheeraj Kalgutkar | 1:00PM |
